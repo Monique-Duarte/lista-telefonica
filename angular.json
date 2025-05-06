@@ -14,7 +14,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/lista-telefonica",
-            "index": "src//app/index.html",
+            "index": "src/app/index.html",
             "polyfills": [
               "zone.js"
             ],
@@ -26,7 +26,7 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/app/css/app.css"
             ],
             "scripts": []
           },
